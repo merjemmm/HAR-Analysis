@@ -1,0 +1,12 @@
+A pool of 30 volunteers performed six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, 
+SITTING, STANDING, LAYING) with a smartphone at the waist. The smartphone’s embedded systems 
+recorded triaxial acceleration and angular velocity, which form the basis for a multi class 
+classification prediction experiment. A Support Vector Machine, Convolutional Neural Network, 
+and a Recurrent Neural Network were trained on the resulting data and created predictions to 
+varying success. In accuracy and F1 Score, the SVM outperforms the other models. 
+Each faced issues distinguishing between different sets of seemingly similar activities.
+
+This GitHub repository includes all the code for the visualizations included in the final pdf.
+The data used for this project can be found at https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+
+
